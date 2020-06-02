@@ -7,6 +7,8 @@ public class StringBuilderDemo1 {
         sb.append(1);
 
         String s = sb.toString();
-        System.out.println(s);
+        System.out.println(sb);
+
+
     }
 }
